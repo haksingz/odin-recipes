@@ -1,0 +1,24 @@
+/*Stylesheet for Recipe Site
+
+TEXT:
+    .Title
+    .Link
+    .Headline
+    .Content    
+    .Ingredient
+    .Step
+
+IMAGES
+    .Picture
+*/
+
+#Title{font-family: Verdana, serif; color: brown; font-size: 64px;}
+.Link{font-family: Verdana, serif; color: blue; font-size: 24px;}
+.Picture{height: 300px; width:auto;}
+
+.Headline, .Content, .Ingredient, .Step{font-family: Verdana, serif;}
+
+.Headline{color: brown; font-size: 24px;}
+.Content{color: black; font-size: 14px;}
+.Ingredient{color: magenta; font-size: 14px;}
+.Step{color: green; font-size: 14px;}
